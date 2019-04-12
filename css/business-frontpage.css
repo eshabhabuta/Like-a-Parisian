@@ -5,7 +5,10 @@
  */
 body {
   padding-top: 56px;
+  background-color: #F5F5F3;
+  color: #789BA9
 }
+
 
 
 .d-block{
@@ -16,6 +19,6 @@ body {
   position:absolute;
   top: 75px;
   left: 40%;
-  color: white;
+  color: #AECCCF;
   font-family: Arial
 }
