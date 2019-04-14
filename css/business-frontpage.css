@@ -8,16 +8,15 @@ body {
 }
 
 .carousel-item{
-  width: 100%;
-  height: 500px;
+
   background-size: cover;
   background-position: center bottom;
 }
 
 .title{
-  position:absolute;
+  position: fixed;
   top: 75px;
   left: 40%;
   color: white;
-  font-family: Arial
+  font-family: Georgia
 }
