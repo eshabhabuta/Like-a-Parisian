@@ -10,12 +10,12 @@ body {
 .carousel-item{
 
   background-size: cover;
-  background-position: center bottom;
+  background-position: center;
 }
 
 .title{
-  position: fixed;
-  top: 75px;
+  position: center;
+  top: 100px;
   left: 40%;
   color: white;
   font-family: Georgia
